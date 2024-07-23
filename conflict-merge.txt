@@ -1,6 +1,2 @@
 conflict
-<<<<<<< HEAD
-bbbbbbb
-=======
 ccccccc
->>>>>>> conflict-merge-2
